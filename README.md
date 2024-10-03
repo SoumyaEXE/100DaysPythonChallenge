@@ -52,7 +52,7 @@ I will be updating this repository daily with:
 2. The code or project I worked on 📁
 3. Key takeaways and insights ✨
 
-Check the [100 Days Of Python](/100DaysPython/) folder for code snippets and scripts from each day!
+Check the "100 Days Python" folder for code snippets and scripts from each day!
 
 ---
 
