@@ -1,0 +1,6 @@
+rint ("Soumya")
+print("October 3, 2024")
+print("I am signing up for Replit's 100 days of python coding challenge!")
+print("I will make sure spend some day every day coding along, for a minimum 10 minutes a day.")
+print("I'll be using Replit, an amazing online IDE so I can do this, from my phone wherever I happen to be. No excuses for not coding from the middle of a field!")
+print("I am feeling 😊")
