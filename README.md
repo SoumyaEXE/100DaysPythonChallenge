@@ -7,7 +7,8 @@ Welcome to my **100 Days of Python** Challenge! 🎉 The goal is to commit to co
 | Day | Project/Task Description | Status |
 | --- | ------------------------ | ------ |
 | 1   | Set up the environment and "Hello World" script 🌍 | ✅ Done |
-| 2   | Variables and Data Types 💻 | ✅ Not Done |
+| 2   | Input Variables and Data Types 💻 | ✅ Done |
+| 3   |  💻 | ✅ Not Done |
 
 
 ### 🏆 Goal:
