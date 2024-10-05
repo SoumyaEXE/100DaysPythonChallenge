@@ -9,7 +9,7 @@ Welcome to my **100 Days of Python** Challenge! 🎉 The goal is to commit to co
 | 1   | Set up the environment and "Hello World" script 🌍 | ✅ Done |
 | 2   | Input Variables and Data Types 💻 | ✅ Done |
 | 3   | Learned How to Concatenate Variables 💻 | ✅ Done |
-| 4   |  💻 | ✅ Not Done |
+| 4   | Custom Story Generator Using Concatenate 💻 | ✅ Done |
 | 5   |  💻 | ✅ Not Done |
 | 6   |  💻 | ✅ Not Done |
 | 7   |  💻 | ✅ Not Done |
