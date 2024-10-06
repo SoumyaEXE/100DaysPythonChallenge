@@ -10,8 +10,8 @@ Welcome to my **100 Days of Python** Challenge! 🎉 The goal is to commit to co
 | 2   | Input Variables and Data Types 💻 | ✅ Done |
 | 3   | Learned How to Concatenate Variables 💻 | ✅ Done |
 | 4   | Custom Story Generator Using Concatenate 💻 | ✅ Done |
-| 5   | Learned About IF & ELSE, Made Marvel Character Creator Using That 💻 | ✅ Done |
-| 6   |  💻 | ✅ Not Done |
+| 5   | Learned About IF & ELSE, Made Marvel Character Creator 💻 | ✅ Done |
+| 6   | Learned about ELIF Statement & Made A Login System 💻 | ✅ Done |
 | 7   |  💻 | ✅ Not Done |
 | 8   |  💻 | ✅ Not Done |
 | 9   |  💻 | ✅ Not Done |
