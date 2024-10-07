@@ -13,7 +13,7 @@ Welcome to my **100 Days of Python** Challenge! 🎉 The goal is to commit to co
 | 5   | Learned About IF & ELSE, Made Marvel Character Creator 💻 | ✅ Done |
 | 6   | Learned about ELIF Statement & Made A Login System 💻 | ✅ Done |
 | 7   | Nesting With IF & print Statement & Made A FAKE FAN Finder 💻 | ✅ Done |
-| 8   |  💻 | ✅ Not Done |
+| 8   | Affirmations Generator using Concatenation, If Statements, and Nested If Statements 💻 | ✅ Done |
 | 9   |  💻 | ✅ Not Done |
 | 10  |  💻 | ✅ Not Done |
 | 11  |  💻 | ✅ Not Done |
